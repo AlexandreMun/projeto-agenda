@@ -2,6 +2,6 @@
 Projeto de uma agenda de contatos feito no curso de js.
 
 # Start
-npm i
-npm run dev
-npm start
+1. npm i
+2. npm run dev
+3. npm start
