@@ -1,5 +1,5 @@
 # projeto-agenda
-Projeto de uma agenda de contatos feito no curso de js.
+Projeto de uma agenda de contatos feito em js.
 
 # Start
 1. npm i
